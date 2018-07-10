@@ -1,6 +1,6 @@
 {
 	"name": "zazama/silverstripe-adminbar",
-	"description": "Adds an admin bar to SilverStripe using the $AdminBar variable",
+	"description": "Show an admin bar by inserting $ShowAdminBar into template",
 	"type": "silverstripe-vendormodule",
 	"keywords": ["silverstripe", "CMS", "admin bar"],
 	"license": "MIT",
