@@ -1,0 +1,8 @@
+---
+Name: 'adminbar'
+Before: 'mysite'
+After: 'framework'
+---
+SilverStripe\CMS\Model\SiteTree:
+  extensions:
+    - Zazama\AdminBar

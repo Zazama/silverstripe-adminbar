@@ -1,0 +1,6 @@
+de:
+  Zazama\AdminBar:
+    AdminCenter: 'Adminbereich'
+    EditPage: 'Seite bearbeiten'
+    Flush: 'Templates erneuern'
+    DevBuild: 'Dev/Build'

@@ -1,0 +1,14 @@
+{
+	"name": "zazama/silverstripe-adminbar",
+	"description": "Adds an admin bar to SilverStripe using the $AdminBar variable",
+	"type": "silverstripe-vendormodule",
+	"keywords": ["silverstripe", "CMS", "admin bar"],
+	"license": "MIT",
+	"authors": [
+		{"name": "Jan Metzger","email": "jan.metzger@gmx.net"}
+	],
+	"require": {
+		"silverstripe/framework": "^4.0"
+	},
+	"minimum-stability": "dev"
+}
